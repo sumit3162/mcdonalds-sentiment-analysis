@@ -28,7 +28,7 @@ This project analyzes customer survey data about McDonald's to understand custom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mcdonalds-sentiment-analysis.git
+   git clone https://github.com/sumit3162/mcdonalds-sentiment-analysis.git
    cd mcdonalds-sentiment-analysis
    ```
 
