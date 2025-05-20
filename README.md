@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - shinganesumit80@gmail.com
 
 Project Link: [https://github.com/sumit3162/mcdonalds-sentiment-analysis](https://github.com/sumit3162/mcdonalds-sentiment-analysis)
 ```
